@@ -35,6 +35,13 @@ const ProjectsData = [
     url: "https://www.codefunhouse.com/"
   },
   {
+    title: "CareFinder Frontend",
+    Edited: "November 2023",
+    image: "./img/carefinder.png",
+    description: "",
+    url: "https://willowy-druid-f3c997.netlify.app/"
+  },
+  {
     title: "Dice thrower",
     Edited: "November 2023",
     image: "./img/dieprj.png",
