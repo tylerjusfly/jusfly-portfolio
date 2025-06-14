@@ -58,7 +58,7 @@ export const Nav = () => {
 
           <div className="hr-line"></div>
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="https://tylerjusfly.hashnode.dev/" target="_blank" rel="noreferrer">
+            <a className="nav-link js-scroll-trigger" href="https://dev.to/tylerjusfly" target="_blank" rel="noreferrer">
               Blog
             </a>
           </li>

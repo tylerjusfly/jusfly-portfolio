@@ -6,7 +6,7 @@ const ExperienceData = [
     jobDesc: [
       "Developed a Node.js application utilizing DynamoDB for scalable NoSQL data storage and AWS SES for email notifications.",
       "Deployed the application on an AWS EC2 instance, ensuring reliability with PM2 process manager.",
-      "Implemented best practices for cloud deployment and monitoring.",
+      "Improved payment system security by relocating Stripe implementation from the frontend to a secure backend, mitigating API key exposure risks caused by the hosting environment.",
       "Built a Salesforce code generator powered by OpenAI’s LLM to automate Apex code creation, along with a verification system to assess the accuracy and validity of the generated code before deployment.",
       "Integrated the OpenAI API to deliver intelligent code suggestions, enhancing developer productivity and automation capabilities.",
       "Automated deployment pipelines using GitLab CI/CD and Docker, ensuring seamless deployment to Salesforce orgs.",
@@ -15,15 +15,15 @@ const ExperienceData = [
     duration: "May 2024 - Present"
   },
   {
-    jobTitle: "Senior Full Stack Developer ",
+    jobTitle: "Senior Frontend Developer ",
     companyWebsite: "https://codefunhouse.com",
     company: "Code Funhouse",
     jobDesc: [
       "Implemented a system to execute Python code with imported packages by setting up a Docker container, ensuring secure and efficient code execution.",
-      "Over 2 years of backend experience using TypeScript, Node.js (Express.js, NestJS), and MongoDB to build scalable systems for coding exercises, real-time grading, and progress tracking.",
-      "Spearheaded the migration of backend code from Express.js to NestJS with MongoDB, significantly improving code structure, maintainability, and development speed.",
-      "Created and maintained comprehensive API documentation using Swagger (OpenAPI), Postman, and JSON Schema, making it easy for frontend developers to understand and consume.",
-      "Wrote unit and integration tests for Node.js backend code using Jest, driving the team toward a 60% code coverage benchmark and improving system reliability."
+      "Leveraged TypeScript, Next.js, Tailwind CSS, and Framer Motion to design and implement reusable UI components and responsive screens for managing and evaluating coding exercises featuring dynamic problem delivery, real-time grading, and user progress tracking.",
+      "Spearheaded the migration from Next.js 13 code to Next.js 15, significantly improving code structure, maintainability, and development speed.",
+      "Built a custom code editor with support for JavaScript, HTML, CSS, Python, and media rendering (images and videos). The editor also enabled importing and using external JavaScript and Python packages, allowing for a more dynamic and interactive coding experience.",
+      "Developed unit and integration tests using Jest for the Next.js codebase, achieving 60% code coverage and enhancing overall system reliability."
     ],
     duration: "Dec 2023 - Mar 2025"
   },
